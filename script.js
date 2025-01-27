@@ -1,4 +1,6 @@
 // Display a Welcome Message Based on Time
+// this is javascript code
+
 const welcomeMessage = document.getElementById("welcome-message");
 const hours = new Date().getHours();
 if (hours < 12) {
